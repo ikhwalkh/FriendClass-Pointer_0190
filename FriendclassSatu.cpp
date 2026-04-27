@@ -14,6 +14,7 @@ class orang
     friend class siswa;
 };
 
+//class siswa 
 class siswa
 {
     private:
