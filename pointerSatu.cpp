@@ -11,7 +11,7 @@ class mahasiswa{
 };
 
 int main (){
-    mahasiswa mhs{1};
+    mahasiswa mhs{1}; //object mhs
     mhs.showNim();
 
     mahasiswa &refMhs = mhs;
