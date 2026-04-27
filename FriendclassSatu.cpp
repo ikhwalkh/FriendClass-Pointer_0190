@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+//private nya
 class siswa;
 class orang
 {
