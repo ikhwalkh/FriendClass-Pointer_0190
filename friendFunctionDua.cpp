@@ -24,6 +24,8 @@ void manusia::showNilaipelajar(pelajar &x)
 {
     cout << x.nilai;
 }
+
+//untuk menjalankan semua perintah
 int main()
 {
     manusia budi;
