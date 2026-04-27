@@ -12,6 +12,7 @@ class mahasiswa
     }
 };
 
+//buat menjalankan perintah
 int main()
 {
     mahasiswa *mhs = new mahasiswa{1};
