@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//class deklarasi
 class pelajar;
 class manusia
 {
